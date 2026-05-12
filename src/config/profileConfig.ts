@@ -25,25 +25,15 @@ export const profileConfig: ProfileConfig = {
 			name: "qq",
 			icon: "fa7-brands:qq",
 			url: "https://user.qzone.qq.com/3579876737/main",
-			showName: false,
+			showName: true,
 		},
-		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
-			showName: false,
-		},
+		
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
-			showName: false,
+			url: "3579876737@qq.com",
+			showName: true,
 		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
-			showName: false,
-		},
+	
 	],
 };
