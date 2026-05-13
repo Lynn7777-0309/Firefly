@@ -53,7 +53,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				name: "无关风雪与夜话",
 				artist: "河图",
 				url: "/assets/music/河图 - 无关风雪与夜话.mp3",
-				cover: "/assets/music/cover/109951169585655912.webp",
+				cover: "/assets/images/firefly.png",
 				lrc: "",
 			},
 		],
