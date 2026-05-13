@@ -28,12 +28,6 @@ export const profileConfig: ProfileConfig = {
 			showName: true,
 		},
 		
-		{
-			name: "Email",
-			icon: "fa7-solid:envelope",
-			url: "3579876737@qq.com",
-			showName: true,
-		},
-	
+
 	],
 };
