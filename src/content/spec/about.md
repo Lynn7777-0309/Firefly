@@ -1,6 +1,6 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **Lynn7777** ，一个在数字世界中默默无闻的无孩爱猫女。有关我的一切我愿意被知道的信息，都在我的个人博客中能够找到。
 
 ## 🛠️ 关于本站
 
@@ -11,7 +11,7 @@
 
 **🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+**🏠作者的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
 
 **📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
 
@@ -26,7 +26,7 @@
 
 ## 📫 联系方式
 
-如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
+如果你想和原作者交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
 
 - 💻 **GitHub**: [CuteLeaf](https://github.com/CuteLeaf)
 - ✉️ **Email**: [xiaye@msn.com](mailto:xiaye@msn.com)
