@@ -26,7 +26,7 @@
 
 ## 📫 联系方式
 
-如果你想和原作者交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
+如果你想和原作者交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系ta：
 
 - 💻 **GitHub**: [CuteLeaf](https://github.com/CuteLeaf)
 - ✉️ **Email**: [xiaye@msn.com](mailto:xiaye@msn.com)
