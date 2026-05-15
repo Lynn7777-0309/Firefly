@@ -49,6 +49,15 @@ export const friendsConfig: FriendLink[] = [
     tags: ["tag不知豆填啥"],
     weight: 8,
     enabled: true,
+	},	
+	{
+    title: "小林の小破站",
+    imgurl: "https://img.cdn1.vip/i/696fce2716375_1768934951.jpg",
+    desc: "Docker技术分享。",
+    siteurl: "https://www.xllog.top/",
+    tags: ["tag不知豆填啥"],
+    weight: 8,
+    enabled: true,
 	},
 ];
 
