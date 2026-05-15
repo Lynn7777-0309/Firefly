@@ -41,7 +41,15 @@ export const friendsConfig: FriendLink[] = [
 		weight: 9,
 		enabled: true,
 	},
-
+	{
+    title: "XingHuiSamaの宝藏之地",
+    imgurl: "https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
+    desc: "在代码、学术与分子动力学模拟间穿梭的普通人。",
+    siteurl: "https://www.xinghuisama.top",
+    tags: ["tag不知豆填啥"],
+    weight: 8,
+    enabled: true,
+	},
 ];
 
 // 获取启用的友链并进行排序
